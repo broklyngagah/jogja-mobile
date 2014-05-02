@@ -9,6 +9,6 @@ class HelloWolrd {
     }
 	public void showWord()
 	{
-		System.out.println("Hello World! iniiiiii"); // Display the string.
+		System.out.println("Hello World! iniiiiiii"); // Display the string.
 	}
 }
